@@ -11,4 +11,4 @@ The source of select Amazon Reviews that were used to compute review scores is o
 • reviewText - text of the review
 • overall - rating of the product
 • summary - summary of the review
-• unixReviewTime - time of the review
+• unixReviewTime - time of the review 
